@@ -1,0 +1,16 @@
+<svg width="800" height="4" viewBox="0 0 800 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="colorWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#87CEFA">
+        <animate attributeName="stop-color" values="#87CEFA;#007ACC;#001F3F;#007ACC;#87CEFA" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#007ACC">
+        <animate attributeName="stop-color" values="#007ACC;#001F3F;#007ACC;#87CEFA;#007ACC" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#001F3F">
+        <animate attributeName="stop-color" values="#001F3F;#007ACC;#87CEFA;#007ACC;#001F3F" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="4" fill="url(#colorWave)" rx="2" />
+</svg>
