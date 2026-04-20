@@ -9,7 +9,7 @@
 <!-- Thin Animated Gradient Line -->
 
  
-  <img src="https://raw.githubusercontent.com/Arnav995/readme/main/animated-divider.svg" width="100%" alt="Animated Divider" />
+  <img src="https://raw.githubusercontent.com/Arnav995/readMeRepo/main/animated-divider.svg" width="100%" alt="Animated Divider" />
 
 
 
