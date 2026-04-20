@@ -84,7 +84,7 @@ const arnav = {
 ---
 
 <div align="center">
-
+<!--
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav995&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
@@ -105,6 +105,7 @@ const arnav = {
 
 </div>
 
+-->
 ---
 
 <div align="center">
@@ -171,7 +172,7 @@ const myCurrentFocus: CurrentFocus = {
 ---
 
 <div align="center">
-
+<!--
 ### 💭 Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -179,7 +180,7 @@ const myCurrentFocus: CurrentFocus = {
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ### 😂 Here's a Random Dev Meme for You
@@ -193,7 +194,7 @@ const myCurrentFocus: CurrentFocus = {
 ![](https://komarev.com/ghpvc/?username=arnav995&color=blueviolet&style=for-the-badge)
 
 ---
-
+-->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -210,6 +211,7 @@ const myCurrentFocus: CurrentFocus = {
 ### 💼 Open to Work | Available for Freelance Projects 🚀
 
 **"Code is like humor. When you have to explain it, it's bad!"** – Cory House
+-->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing SVG" />
 
