@@ -1,7 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007ACC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Arnav+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+with+MERN+Stack;Backend+Dev+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+
+<!-- Minimal Typing Header (Neutral color for light + dark mode) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=6A737D&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Arnav+👋;Full+Stack+Web+Developer;Backend+Dev+Enthusiast" />
+
+<!-- Subtle divider instead of wave -->
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Animated Laptop" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
+
 </div>
 
 ---
