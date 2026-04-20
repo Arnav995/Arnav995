@@ -1,11 +1,7 @@
 <div align="center">
-
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Arnav+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+with+MERN+Stack;Computer+Vision+Enthusiast+%F0%9F%93%B8" alt="Typing SVG" />
-
-<!-- Wave animation -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007ACC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Arnav+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+with+MERN+Stack;Backend+Dev+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Animated Laptop" width="50" height="50" />
 </div>
 
 ---
