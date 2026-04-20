@@ -23,14 +23,14 @@ const arnav = {
     technologies: {
         frontEnd: {
             js: ["React.js"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
         },
-        databases: ["MongoDB", "MySQL"],
+        databases: ["MongoDB", "MySQL", "Redis"],
         computerVision: ["OpenCV"],
-        tools: ["Git", "Postman", "VS Code"]
+        tools: ["Git", "Linux", "Docker","Postman", "VS Code"]
     },
     currentlyLearning: "Advanced React Patterns & System Design",
     lookingFor: "Full Stack Developer roles & exciting projects",
