@@ -6,7 +6,7 @@
 
 <!-- Subtle divider instead of wave -->
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
+<hr style="width:60%; border:1px solid #6A737D; opacity:0.4;" />
 
 </div>
 
