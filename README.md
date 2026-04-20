@@ -6,7 +6,7 @@
 
 <!-- Subtle divider instead of wave -->
 <br/>
-<hr style="width:60%; border:1px solid #6A737D; opacity:0.4;" />
+<img src="https://svg-banners.vercel.app/api?type=wave&height=60&width=800&colors=89CFF0,4FA3D1,0A2540&speed=0.3" width="70%" />
 
 </div>
 
