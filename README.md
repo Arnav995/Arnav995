@@ -59,54 +59,10 @@ const arnav = {
 </div>
 
 ---
-<!--
-<div align="center">
 
-## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnav995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav995&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav995&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=arnav995&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-
-</div>
--->
----
-
-<div align="center">
-<!--
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav995&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav995/arnav995/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav995/arnav995/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arnav995/arnav995/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
--->
----
 
 <div align="center">
 
@@ -162,7 +118,7 @@ const myCurrentFocus: CurrentFocus = {
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-gandhi-0010a5291) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
@@ -170,40 +126,6 @@ const myCurrentFocus: CurrentFocus = {
 </div>
 
 ---
-
-<div align="center">
-<!--
-### 💭 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-<!--
-<div align="center">
-
-### 😂 Here's a Random Dev Meme for You
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-### 👀 Profile Views Counter
-
-![](https://komarev.com/ghpvc/?username=arnav995&color=blueviolet&style=for-the-badge)
-
----
--->
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
