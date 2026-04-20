@@ -7,22 +7,11 @@
 <!-- Subtle divider instead of wave -->
 <br/>
 <!-- Thin Animated Gradient Line -->
-<svg width="60%" height="4" viewBox="0 0 600 4" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#89CFF0">
-        <animate attributeName="stop-color" values="#89CFF0;#4FA3D1;#0A2540;#89CFF0" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#4FA3D1">
-        <animate attributeName="stop-color" values="#4FA3D1;#0A2540;#89CFF0;#4FA3D1" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#0A2540">
-        <animate attributeName="stop-color" values="#0A2540;#89CFF0;#4FA3D1;#0A2540" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="600" height="4" fill="url(#grad)" rx="2"/>
-</svg>
+
+ 
+  <img src="https://raw.githubusercontent.com/Arnav995/Arnav995/main/animated-divider.svg" width="100%" alt="Animated Divider" />
+
+
 
 </div>
 
