@@ -55,7 +55,7 @@ const arnav = {
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
