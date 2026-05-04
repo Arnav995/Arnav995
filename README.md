@@ -74,7 +74,7 @@ const arnav = {
 <!-- Replace YOUR_REPO_NAME with your actual repository names -->
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=arnav995&repo=CrowdFunded-Event-Management&theme=tokyonight&hide_border=true)](https://github.com/arnav995/CrowdFunded-Event-Management)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=arnav995&repo=Weather-API-Wrapper&theme=tokyonight&hide_border=true)](https://github.com/Arnav995/Weather-API-Wrapper)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=arnav995&repo=Weather-API-Wrapper&theme=tokyonight&hide_border=true)](https://github.com/Arnav995/Task-Management-API)
 
 
 <!-- 
