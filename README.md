@@ -74,7 +74,7 @@ const arnav = {
 <!-- Replace YOUR_REPO_NAME with your actual repository names -->
 
 [![CrowdFunded Event Management](https://img.shields.io/badge/CrowdFunded--Event--Management-181717?style=for-the-badge&logo=github)](https://github.com/Arnav995/CrowdFunded-Event-Management)
-
+[![AuthHub](https://img.shields.io/badge/Task--Management--API-181717?style=for-the-badge&logo=github)](https://github.com/Arnav995/AuthHub).
 [![Task Management API](https://img.shields.io/badge/Task--Management--API-181717?style=for-the-badge&logo=github)](https://github.com/Arnav995/Task-Management-API)
 
 <!-- 
