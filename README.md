@@ -26,7 +26,7 @@
 ```javascript
 const arnav = {
     pronouns: "He/Him",
-    code: ["JavaScript", "Python", "C++", "C"],
+    code: ["JavaScript", "TypeScript", "Python", "C++", "Java", "C"],
     technologies: {
         frontEnd: {
             js: ["React.js"],
@@ -34,10 +34,12 @@ const arnav = {
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
+            auth: ["JWT"]
         },
-        databases: ["MongoDB", "MySQL", "Redis"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
         computerVision: ["OpenCV"],
-        tools: ["Git", "Linux", "Docker","Postman", "VS Code"]
+        cloud: ["AWS S3"],
+        tools: ["Git", "Docker", "Postman", "VS Code"]
     },
     currentlyLearning: "Advanced React Patterns & System Design",
     lookingFor: "Full Stack Developer roles & exciting projects",
@@ -52,16 +54,16 @@ const arnav = {
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,npm,opencv&theme=dark" />
 
 </div>
 
