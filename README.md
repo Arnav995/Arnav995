@@ -36,7 +36,7 @@ const arnav = {
             js: ["Node.js", "Express.js"],
             auth: ["JWT"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis","Prisma"],
         computerVision: ["OpenCV"],
         cloud: ["AWS S3"],
         tools: ["Git", "Docker", "Postman", "VS Code"]
